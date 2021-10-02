@@ -1,1 +1,2 @@
-Implementasi Firebase
+# About Project
+Incremental Game menggunakan implementasi firebase
